@@ -1,0 +1,9 @@
+ITEM.name = "Canned Soup"
+ITEM.uniqueID = "food_cansoup"
+ITEM.model = Model("models/warz/consumables/can_soup.mdl")
+ITEM.desc = "Canned soup. Contains soup for one person."
+ITEM.hunger = 30
+ITEM.hungermultp = 3
+ITEM.thirst = 10
+ITEM.thirstmultp = 3
+ITEM.cookable = true

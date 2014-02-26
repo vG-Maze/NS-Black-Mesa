@@ -1,0 +1,7 @@
+"nsbmrp"
+{
+	"base"		"nutscript"
+	"title"		"Black Mesa Roleplay"
+	"author"	"Riekelt"
+	"menusystem" "1"
+}

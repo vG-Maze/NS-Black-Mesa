@@ -1,0 +1,9 @@
+ITEM.name = "Canned Tuna"
+ITEM.uniqueID = "food_cansoup"
+ITEM.model = Model("models/warz/consumables/can_tuna.mdl")
+ITEM.desc = "Canned tuna. Contains tuna for one person."
+ITEM.hunger = 40
+ITEM.hungermultp = 2
+ITEM.thirst = 0
+ITEM.thirstmultp = 0
+ITEM.cookable = true

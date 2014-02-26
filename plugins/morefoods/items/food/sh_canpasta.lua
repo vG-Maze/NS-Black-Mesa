@@ -1,0 +1,9 @@
+ITEM.name = "Canned Pasta"
+ITEM.uniqueID = "food_canpasta"
+ITEM.model = Model("models/warz/consumables/can_pasta.mdl")
+ITEM.desc = "Canned Pasta. Contains pasta for one person."
+ITEM.hunger = 35
+ITEM.hungermultp = 3
+ITEM.thirst = 5
+ITEM.thirstmultp = 3
+ITEM.cookable = true
