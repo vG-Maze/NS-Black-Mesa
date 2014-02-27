@@ -3,30 +3,23 @@ FACTION.desc = "Medical personel are responsible for the health of the employees
 FACTION.color = Color(255, 191, 202)
 FACTION.pay = 150
 FACTION.maleModels = { 
-	"models/humans/group01/male_01.mdl",
-	"models/humans/group01/male_02.mdl",
-	"models/humans/group01/male_04.mdl",
-	"models/humans/group01/male_05.mdl",
-	"models/humans/group01/male_06.mdl",
-	"models/humans/group01/male_07.mdl",
-	"models/humans/group01/male_08.mdl",
-	"models/humans/group01/male_09.mdl",
-	"models/humans/group02/male_01.mdl",
-	"models/humans/group02/male_03.mdl",
-	"models/humans/group02/male_05.mdl",
-	"models/humans/group02/male_07.mdl",
-	"models/humans/group02/male_09.mdl"
+	"models/humans/group01/scrub1a.mdl",
+	"models/humans/group01/scrub1b.mdl",
+	"models/humans/group01/scrub1c.mdl",
+	"models/humans/group01/scrub1d.mdl",
+	"models/humans/group01/scrub1e.mdl",
+	"models/humans/group01/scrub1f.mdl",
+	"models/humans/group01/scrub1g.mdl",
+	"models/humans/group01/scrub1h.mdl",
+	"models/humans/group01/scrub1i.mdl",
+	"models/humans/group01/scrub2b.mdl"
 }
 FACTION.femaleModels = {
-	"models/humans/group01/female_01.mdl",
-	"models/humans/group01/female_02.mdl",
-	"models/humans/group01/female_03.mdl",
-	"models/humans/group01/female_06.mdl",
-	"models/humans/group01/female_07.mdl",
-	"models/humans/group02/female_01.mdl",
-	"models/humans/group02/female_03.mdl",
-	"models/humans/group02/female_06.mdl",
-	"models/humans/group01/female_04"
+	"models/humans/group01/scrubfe1a.mdl",
+	"models/humans/group01/scrubfe1b.mdl",
+	"models/humans/group01/scrubfe1c.mdl",
+	"models/humans/group01/scrubfe1d.mdl",
+	"models/humans/group01/scrubfe1e.mdl"
 }
 
 FACTION_MED = FACTION.index
