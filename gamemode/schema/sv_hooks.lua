@@ -104,6 +104,23 @@ function SCHEMA:StringClearances (client)
 	return clearancestring
 end
 
+-- Need to seperate the anti-spams so that if different buttons are being pressed at the same time they won't both be on the anti-spam timer. Not sure about this but done it anyway.
+local antispam = 0
+local antispam2 = 0
+local antispam3 = 0
+local antispam4 = 0
+local antispam5 = 0
+local antispam6 = 0
+local antispam7 = 0
+local antispam8 = 0
+local antispam9 = 0
+local antispammotor = 0
+
+-- Adding the VOX sounds for the scanners.
+resource.AddFile( "sound/vox/access.wav" )    
+resource.AddFile( "sound/vox/denied.wav" )
+
+-- Now we start overriding the player using the use key
 function SCHEMA:PlayerUse(ply, cmd, args, entity)
 
 	if ply:EntIndex() == 0 then
