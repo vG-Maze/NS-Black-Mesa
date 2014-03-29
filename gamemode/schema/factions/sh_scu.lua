@@ -1,5 +1,5 @@
 FACTION.name = "Security"
-FACTION.desc = "The people who keep Black Mesa Safe, they patrol and control the facility."
+FACTION.desc = "The faction that is responsible for maintaining the security of the entire facility, and is responsible for keeping the people inside it safe."
 FACTION.color = Color(0, 101, 232)
 FACTION.pay = 300
 FACTION.maleModels = {

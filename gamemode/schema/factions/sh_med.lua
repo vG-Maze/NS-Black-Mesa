@@ -1,5 +1,5 @@
-FACTION.name = "Medics"
-FACTION.desc = "Medical personel are responsible for the health of the employees of Black Mesa."
+FACTION.name = "Medical"
+FACTION.desc = "Medical personnel are responsible for the health of the employees of Black Mesa."
 FACTION.color = Color(255, 191, 202)
 FACTION.pay = 150
 FACTION.maleModels = { 

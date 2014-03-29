@@ -1,5 +1,5 @@
 FACTION.name = "Scientists"
-FACTION.desc = "The people Black Mesa was built for, they conduct research within the facility."
+FACTION.desc = "Scientists are the basic foundation of Black Mesa. They conduct experiments, research, and love to chat."
 FACTION.color = Color(255, 214, 237)
 FACTION.pay = 350
 FACTION.maleModels = {

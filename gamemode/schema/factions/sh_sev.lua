@@ -1,5 +1,5 @@
-FACTION.name = "Services"
-FACTION.desc = "All Personel that is not related to research or security purposes, E.G. Janitor."
+FACTION.name = "Service Crew"
+FACTION.desc = "Personnel that will feed the staff, clean up restrooms, etc."
 FACTION.color = Color(197, 143, 255)
 FACTION.pay = 250
 FACTION.maleModels = { 
